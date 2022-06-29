@@ -1,3 +1,3 @@
-__pycache__/*
-dd/devices/*
-dd/*.json
+/__pycache__/*
+/dd/devices/*.json
+/dd/*.json
