@@ -1,0 +1,1 @@
+# dd folder, put ECHONET Lite device description here
